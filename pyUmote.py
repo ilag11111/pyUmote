@@ -16,7 +16,7 @@ screen_opt_default = {
 }
 
 mote_opt_default = {
-    'ir_vcomp' : 1 ,
+    'ir_vcomp' : True ,
     'ir_mouse_emu' : False
 }
     
